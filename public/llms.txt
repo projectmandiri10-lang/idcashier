@@ -1,0 +1,6 @@
+## Pages
+- [- idCashier](/dashboard): idCashier Dashboard - Manage your Point of Sale
+- [- idCashier](/developer): Developer dashboard for customer management
+- [- idCashier](/products): No description available
+- [- idCashier](/reports): No description available
+- [- idCashier](/subscription): Manage your idCashier subscription
